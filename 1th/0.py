@@ -1,7 +1,6 @@
 n = 'stressed'
 
 x = len(n)
-
 i = 1
 
 h = ''
